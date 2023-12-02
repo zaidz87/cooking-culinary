@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+*{
+    font-family: "Poppins", sans-serif;
+    background-color:white;
+}
+.head{
+    font-size: 5em;
+    margin-left: 240px;
+    margin-top: 40px;
+    color: rgb(246, 197, 197);
+}
+.a{
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.b{
+    margin-top: 230px;
+    margin-left: 1000px;
+}
+.c{
+    margin-top: 200px;
+}
+.d{
+    margin-top: 100px;
+    margin-left: 800px;
+}
+.e{
+    margin-top: 200px;
+}
+.f{
+    margin-top: 300px;
+    margin-left: 1020px;
+}
+.g{
+    margin-top: 600px;
+}
+.h{
+    margin-top: 700px;
+    margin-left: 500px;
+}
+.i{
+    margin-top: 800px;
+}
+.j{
+    margin-top: 900px;
+    margin-left: 500px;
+}
+.k{
+    margin-top: 1000px;
+}
+.h1{
+    margin-left: 920px;
+    margin-top: -450px;
+    font-size: 4em;
+    color: rgb(173, 243, 220);
+}
+.h2{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.hh1{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.paneertikka{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.paneertikkap{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.lashead{
+    color:rgb(173, 243, 220);
+    font-size: 4em;
+    margin-left:200px;
+    margin-top: -420px;
+}
+.lasheadd{
+    margin-top:0px;
+}
+.laspara{
+margin-top:0px;
+}
+.biryanih{
+    color:rgb(173, 243, 220);
+    font-size: 4em;
+margin-left: 800px;
+margin-top: -450px;
+}
+.biryanii{
+    margin-left: 750px;
+}
+.biryanip{
+    margin-left: 750px;
+
+}
+.birp{
+    margin-left: 750px;
+}
+.birpp{
+    margin-left: 750px;
+}
+.gajh{
+    color:rgb(173, 243, 220);
+    font-size: 4em;
+    margin-left: 150px;
+    margin-top: -450px;
+}
+.gaji{
+ margin-top: 10px;
+}
+.pizh{
+    color:rgb(173, 243, 220);
+    margin-top: -450px;
+    font-size: 4em;
+    margin-left: 900px;
+}
+.pizi{
+    margin-left: 750px;
+}
+.pizap{
+    margin-left: 750px;
+}
+.pizp{
+    margin-left: 750px;
+}
+.pizpp{
+    margin-left: 750px;
+}
+.chih{
+    color:rgb(173, 243, 220);
+    font-size: 4em;
+    margin-top: -450px;
+    margin-left: 200px;
+}
